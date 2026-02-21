@@ -1,4 +1,4 @@
-sudo pacman -Syu --needed firefox nvim hyprpaper hyprpolkitagent wofi xdg-desktop-portal-hyprland fastfetch waybar cliphist hyprpicker unzip noto-fonts-cjk
+sudo pacman -Syu --needed firefox nvim hyprpaper hyprpolkitagent wofi xdg-desktop-portal-hyprland fastfetch waybar cliphist hyprpicker unzip noto-fonts-cjk hyprshot
 
 sudo pacman -S --needed git base-devel
 git clone https://aur.archlinux.org/yay-bin.git
