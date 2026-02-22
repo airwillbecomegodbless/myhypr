@@ -6,3 +6,6 @@ cd yay-bin
 makepkg -si
 
 yay -Syu webcord wiremix hyprshutdown clion clion-jre clion-cmake multimc-bin
+
+// enable multilib
+sudo pacman -Syu steam
