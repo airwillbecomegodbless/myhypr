@@ -1,1 +1,1 @@
-Must-have Hyprland packages and .conf!
+Must-have packages and Hyprland .conf!
